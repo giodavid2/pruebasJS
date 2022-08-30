@@ -1,0 +1,25 @@
+body {
+    background-image: url("img/1035968.jpg");
+}
+
+.colorWhite {
+    color: white;
+}
+
+#colorYellow {
+    color: yellow;
+}
+
+button {
+    color: yellow;
+    background-color: blue;
+    border-radius: 10px;
+    width: 130px;
+}
+
+button:focus {
+    color: #2196f3;
+    background-color: #ffff;
+    border-radius: 10px;
+    width: 130px;
+}
